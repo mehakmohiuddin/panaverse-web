@@ -23,7 +23,7 @@ export default function Testimonials() {
          </Heading>
         </Heading>
       <Text textAlign={'center'} py={3}>
-        You don't have to struggle alone, you've got our assistance and help.
+        You don&apos;t have to struggle alone, you&apos;ve got our assistance and help.
         </Text>
     <MotionBox variants={
       fadeIn("up", "tween",0.5,1)}
