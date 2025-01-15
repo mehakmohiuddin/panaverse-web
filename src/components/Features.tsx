@@ -15,7 +15,7 @@ export default function Features() {
         spacing={1} 
         >
 <Box pb={"20px"}  >
-    <Image src='hand-drawn-flat-design-metaverse-illustration_23-2149245320.jpg' height={420} width={490}></Image>
+    <Image src='hand-drawn-flat-design-metaverse-illustration_23-2149245320.jpg' alt='img' height={420} width={490}></Image>
 </Box>
  <MotionBox 
     variants={fadeIn("down", "tween",0.5,1)}

@@ -24,7 +24,7 @@ whileInView="show"
 >
 <Box justifyContent={'center'}  >
  
-      <Image src='study1.jpg' height={450} width={450} pt={10} pb={90}></Image>
+      <Image src='study1.jpg' alt='img' height={450} width={450} pt={10} pb={90}></Image>
       </Box>
       </MotionBox>
     <MotionBox 

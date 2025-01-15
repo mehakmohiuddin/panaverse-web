@@ -39,7 +39,7 @@ in the classroom and will begin doing so within six months of the program's begi
         viewport={{once: false, amount: 0.25}}
         >
 <Box justifyContent={'center'}  pl={"120px"}  >
-    <Image src='8056324.jpg' ></Image>
+    <Image src='8056324.jpg' alt='img' ></Image>
       </Box>
       </MotionBox>
     </SimpleGrid>

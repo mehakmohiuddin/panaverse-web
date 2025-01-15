@@ -6,7 +6,7 @@ const AboutPage = () => {
   return (
     <Container pt={50} mb={30} maxWidth="container.md">
         <Box justifyContent={'center'}  >
-            <Image src="President_of_Pakistan_Dr_Arif_Alvi.jpg" ml={302} mb={3} boxSize={'75px'} borderRadius={'full'} />
+            <Image src="President_of_Pakistan_Dr_Arif_Alvi.jpg" alt='img' ml={302} mb={3} boxSize={'75px'} borderRadius={'full'} />
 
             <Heading fontSize={'bold'} justifyContent={'center'} ml={300} >
             Dr. Arif Alvi
