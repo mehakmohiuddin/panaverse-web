@@ -85,7 +85,7 @@ import {
             spacing={8}>
             <Stack spacing={6} >
               <Box  >
-                <Image src='panaverse (1).webp' />
+                <Image src='panaverse (1).webp' alt='img' />
               </Box>
               <Text fontSize={'sm'} mr={50}>
               The Future of the Web is Web 3.0, Metaverse, and Edge Computing. Panaverse DAO is a movement to spread these technolgies globally. It is community of Web 3 and Metaverse developers, designers, trainers, startup founders and service providers.

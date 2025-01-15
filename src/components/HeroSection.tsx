@@ -32,7 +32,7 @@ export default function HeroSection() {
         <Button colorScheme={"blue"} variant={'outline'} mr='3' mt={'5'}>Explore Courses</Button>
       </Box>
       <Box w={'75%'}>
-     <Image src='banner.png' />
+     <Image src='banner.png' alt='img' />
       </Box>
       </SimpleGrid>
       </HStack>
