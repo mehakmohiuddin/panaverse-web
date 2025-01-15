@@ -29,7 +29,7 @@ whileInView="show"
 <Text justifyContent={'center'} alignContent={'center'} p={'25px'} pb={'50px'}>
 Web3, 3D Metaverse, AI, IoT, Cloud, and Edge technologies expand the internet as we know it by introducing novel features and advancements.In this brand-new type of curriculum. In which students will learn how to make money and boost exports
 
-in the classroom and will begin doing so within six months of the program's beginning. It resembles a cross between a corporate venture and an educational project.</Text>
+in the classroom and will begin doing so within six months of the program&apos;s beginning. It resembles a cross between a corporate venture and an educational project.</Text>
 </Box>
 </MotionBox>
   <MotionBox
